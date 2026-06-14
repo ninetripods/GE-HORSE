@@ -60,7 +60,6 @@ export default function Hero() {
         loop
         playsInline
         autoPlay
-        poster="/images/gen-hero-poster.jpg"
       />
 
       <div

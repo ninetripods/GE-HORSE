@@ -72,8 +72,8 @@ export default function Reviews() {
     >
       <div className="w-full h-64 md:h-96 overflow-hidden mb-16">
         <img
-          src="/images/gen-reviews-banner.jpg"
-          alt="Three riders celebrating together"
+          src="/images/gen-hero-poster.jpg"
+          alt="Horses grazing in golden paddocks at Gray Equine"
           className="w-full h-full object-cover object-center"
         />
       </div>

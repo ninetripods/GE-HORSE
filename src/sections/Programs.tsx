@@ -146,7 +146,7 @@ export default function Programs() {
               <img
                 src="/images/gen-program-show.jpg"
                 alt="Show jumping at Gray Equine"
-                className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
+                className="w-full h-full object-cover transition-all duration-700"
               />
             </div>
             <div className="w-1/2 h-48 md:h-72 overflow-hidden rounded">

@@ -93,7 +93,7 @@ export default function Contact() {
         <img
           src="/images/gen-reviews-banner.jpg"
           alt="Riders celebrating in the golden fields of Western Australia"
-          className="w-full h-full object-cover object-center opacity-90"
+          className="w-full h-full object-cover object-center"
         />
       </div>
 

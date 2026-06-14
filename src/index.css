@@ -45,6 +45,13 @@
     overflow-x: hidden;
   }
 
+  img {
+    image-rendering: auto;
+    filter: contrast(1.04) saturate(1.06) brightness(1.01);
+    backface-visibility: hidden;
+    transform: translateZ(0);
+  }
+
   h1, h2, h3, h4 {
     font-family: 'Cormorant Garamond', serif;
     font-weight: 300;
